@@ -28,3 +28,5 @@ print("Slicing List: ", currenciesWithRate[3:7])
 # Copying List
 newListCopy = currenciesWithRate.copy()
 print("Copied List: ", newListCopy)
+
+print("Test Copied List: ", newListCopy)
