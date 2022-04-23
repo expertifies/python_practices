@@ -41,4 +41,4 @@ for i in range(getCounts):
 newfile = pd.read_csv('C:/Users/m.usman/Desktop/python-practice/2 Year IBM Stock Data Batch-1.csv',header=[1], nrows=10)
 print(newfile.to_string())
 
-# print(df2.info())
+print(df2.info())
